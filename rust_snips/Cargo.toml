@@ -1,0 +1,7 @@
+[package]
+name = "prj"
+version = "0.1.0"
+authors = ["seiji"]
+
+[dependencies]
+# rand = "0.3.0"
